@@ -11,4 +11,4 @@
 | César Casasola Boyero  | [Enlace a GitHub 9](https://github.com/cesar-casasola) |
 | Adrian Rodríguez Prunotto | [Enlace a GitHub 10](https://github.com/adrirod) |
 | Julio Moya González | [Enlace a GitHub 11](https://github.com/jcmoya) |
-| David Rabade Fernández | [Enlace a GitHub 12](https://github.com/sbc20uah)) |
+| David Rabade Fernández | [Enlace a GitHub 12](https://github.com/sbc20uah) |
