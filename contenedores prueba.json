@@ -1,0 +1,67 @@
+{
+ "contenedores": [ {
+ "tipo": "Grande",
+ "envases": [ {
+ "tipo": "Grande Ancho",
+ "liquidos": [
+ { "tipo": "alimento", "text": "Agua" },
+ { "tipo": "alimento", "text": "Leche" },
+ { "tipo": "alimento", "text": "Aceite" },
+ { "tipo": "alimento", "text": "Vinagre" } ]
+ }, {
+ "tipo": "Grande Alto",
+ "liquidos": [
+ { "tipo": "alimento", "text": "Agua" },
+ { "tipo": "alimento", "text": "Leche" },
+ { "tipo": "alimento", "text": "Aceite" },
+ { "tipo": "alimento", "text": "Vinagre" } ]
+ } ]
+ }, {
+ "tipo": "Mediano",
+ "envases": [ {
+ "tipo": "Mediano Ancho",
+ "liquidos": [
+ { "tipo": "alimento", "text": "Agua" },
+ { "tipo": "alimento", "text": "Leche" },
+ { "tipo": "alimento", "text": "Aceite" },
+ { "tipo": "alimento", "text": "Vinagre" } ]
+ }, {
+ "tipo": "Mediano Alto",
+ "liquidos": [
+ { "tipo": "corrosivo", "text": "Lejía" },
+ { "tipo": "corrosivo", "text": "Amoniaco" },
+ { "tipo": "corrosivo", "text": "Jabón" },
+ { "tipo": "corrosivo", "text": "Aguarrás" },
+ { "tipo": "corrosivo", "text": "Gasolina" },
+ { "tipo": "corrosivo", "text": "Alcohol" } ]
+ }, {
+ "tipo": "Pequeño",
+ "liquidos": [
+ { "tipo": "corrosivo", "text": "Lejía" },
+ { "tipo": "corrosivo", "text": "Amoniaco" },
+ { "tipo": "corrosivo", "text": "Jabón" },
+ { "tipo": "corrosivo", "text": "Aguarrás" },
+ { "tipo": "corrosivo", "text": "Gasolina" },
+ { "tipo": "corrosivo", "text": "Alcohol" } ]
+ } ]
+ }, {
+ "tipo": "Vertical",
+ "envases": [ {
+ "tipo": "Grande Alto",
+ "liquidos": [
+ { "tipo": "alimento", "text": "Agua" },
+ { "tipo": "alimento", "text": "Leche" },
+ { "tipo": "alimento", "text": "Aceite" },
+ { "tipo": "alimento", "text": "Vinagre" } ]
+ }, {
+ "tipo": "Mediano Alto",
+ "liquidos": [
+ { "tipo": "corrosivo", "text": "Lejía" },
+ { "tipo": "corrosivo", "text": "Amoniaco" },
+ { "tipo": "corrosivo", "text": "Jabón" },
+ { "tipo": "corrosivo", "text": "Aguarrás" },
+ { "tipo": "corrosivo", "text": "Gasolina" },
+ { "tipo": "corrosivo", "text": "Alcohol" } ]
+ } ]
+ }
+ ] }
