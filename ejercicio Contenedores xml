@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contenedores>
+<Contenedor tipo="Grande"> Contenedor Grande
+<Envase tipo="Grande ancho"> Envase Grande Ancho
+<Liquido tipo="Alimento">Agua</Liquido>
+<Liquido tipo="Alimento">Aceite</Liquido>
+<Liquido tipo="Alimento">Vinagre</Liquido>
+<Liquido tipo="Alimento">Leche</Liquido>
+</Envase>
+<Envase tipo="Grande alto"> Envase Grande Alto
+<Liquido tipo="Alimento">Agua</Liquido>
+<Liquido tipo="Alimento">Aceite</Liquido>
+<Liquido tipo="Alimento">Vinagre</Liquido>
+<Liquido tipo="Alimento">Leche</Liquido>
+</Envase>
+</Contenedor>
+<Contenedor tipo="Mediano"> Contenedor Mediano
+<Envase tipo="Mediano ancho"> Envase Mediano Ancho
+<Liquido tipo="Alimento">Agua</Liquido>
+<Liquido tipo="Alimento">Aceite</Liquido>
+<Liquido tipo="Alimento">Vinagre</Liquido>
+<Liquido tipo="Alimento">Leche</Liquido>
+</Envase>
+<Envase tipo="Mediano alto"> Envase Mediano Alto
+<Liquido tipo="Corrosivo">Lejía</Liquido>
+<Liquido tipo="Corrosivo">Gasolina</Liquido>
+<Liquido tipo="Corrosivo">Alcohol</Liquido>
+<Liquido tipo="Corrosivo">Amoniaco</Liquido>
+<Liquido tipo="Corrosivo">Aguarrás</Liquido>
+<Liquido tipo="Corrosivo">Jabón</Liquido>
+</Envase>
+</Envase>
+<Envase tipo="Pequeño"> Envase Pequeño
+<Liquido tipo="Corrosivo">Lejía</Liquido>
+<Liquido tipo="Corrosivo">Gasolina</Liquido>
+<Liquido tipo="Corrosivo">Alcohol</Liquido>
+<Liquido tipo="Corrosivo">Amoniaco</Liquido>
+<Liquido tipo="Corrosivo">Aguarrás</Liquido>
+<Liquido tipo="Corrosivo">Jabón</Liquido>
+</Envase>
+</Contenedor>
+<Contenedor tipo="Vertical"> Contenedor Vertical
+<Envase tipo="Grande alto"> Envase Grande Alto
+<Liquido tipo="Alimento">Agua</Liquido>
+<Liquido tipo="Alimento">Aceite</Liquido>
+<Liquido tipo="Alimento">Vinagre</Liquido>
+<Liquido tipo="Alimento">Leche</Liquido>
+</Envase>
+<Envase tipo="Mediano alto"> Envase Mediano Alto
+<Liquido tipo="Corrosivo">Lejía</Liquido>
+<Liquido tipo="Corrosivo">Gasolina</Liquido>
+<Liquido tipo="Corrosivo">Alcohol</Liquido>
+<Liquido tipo="Corrosivo">Amoniaco</Liquido>
+<Liquido tipo="Corrosivo">Aguarrás</Liquido>
+<Liquido tipo="Corrosivo">Jabón</Liquido>
+</Envase>
+</Contenedor>
+
+<contenedores>
